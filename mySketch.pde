@@ -1,5 +1,3 @@
-/* Author: Deven Kanwal, written for Computation Creativity taught by Sarah 
-Harmon at Bowdoin College Fall 2022.*/
 
 void setup() {
 	// Initializes the canvas size.
@@ -237,4 +235,3 @@ class Leaves {
 		this.canvas.ellipse(x, y, size, size);
 	}
 }
-
